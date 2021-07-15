@@ -1,0 +1,2 @@
+class AbT < ApplicationRecord
+end
